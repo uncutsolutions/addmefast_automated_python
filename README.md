@@ -13,15 +13,15 @@ Modules that needs to install :
 
 open your Powershell and type these commands
 
-1 . pip install selenium
-2 . pip install time
-3 . pip install webdriver
+pip install selenium
+pip install time
+pip install webdriver
 
 USAGE :
 
-1 . Change the addmefast login credientials from login_details.txt
-2 . Open Powershell on the same folder where the files exist by pressing SHIFT + MOUSE RIGHT CLICK AND THEN OPEN POWERSHELL
-3 . Type command : C:\PATH WHERE PYTHON INSTALLED\python.exe .\addmefast.py
+Change the addmefast login credientials from login_details.txt
+Open Powershell on the same folder where the files exist by pressing SHIFT + MOUSE RIGHT CLICK AND THEN OPEN POWERSHELL
+Type command : C:\PATH WHERE PYTHON INSTALLED\python.exe .\addmefast.py
 
 THATS IT..
 
