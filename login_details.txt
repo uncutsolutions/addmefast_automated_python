@@ -1,0 +1,11 @@
+Your_Addmefast_email
+Your_Addmefast_Password
+--user-data-dir=C:/Users/UnCutDevs/AppData/Local/Google/Chrome/User Data/
+
+
+
+
+
+/// EMAIL ON THE FIRST LINE
+/// PASSWORD ON THE SECOND LINE
+/// REPLACE THE UNCUTDEVS WITH YOUR USERNAME ON THE THIRD LINE
