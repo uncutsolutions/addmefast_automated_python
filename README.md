@@ -14,11 +14,8 @@ Python 3.10.7 or Above
 
 # Modules That need to install :
 
-open your Powershell and type these commands
-
-1. pip install selenium
-2. pip install time
-3. pip install webdriver
+open your Powershell on the same directory / folder
+and type command : pip install -r requirements.txt
 
 # USAGE :
 
