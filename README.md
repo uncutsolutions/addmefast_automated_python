@@ -7,12 +7,12 @@ IF YOU FIND ANY BUG OR ISSUE LET ME KNOW.
 
 THIS SCRIPT IS ONLY FOR WINDOWS AND GOOGLE CHROME MUST BE INSTALLED
 
-REQUIREMENTS :
+# Requirements:
 
 Python 3.10.7 or Above
 
 
-Modules that needs to install :
+# Modules That need to install :
 
 open your Powershell and type these commands
 
@@ -20,7 +20,7 @@ open your Powershell and type these commands
 2. pip install time
 3. pip install webdriver
 
-USAGE :
+# USAGE :
 
 1. Change the addmefast login credientials from login_details.txt
 
