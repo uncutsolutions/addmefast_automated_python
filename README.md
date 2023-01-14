@@ -15,7 +15,11 @@ Python 3.10.7 or Above
 # Modules That need to install :
 
 open your Powershell on the same directory / folder
-and type command : pip install -r requirements.txt
+and type command : 
+
+setx PATH "%PATH%;C:\python\Scripts"
+
+pip install -r requirements.txt
 
 # USAGE :
 
