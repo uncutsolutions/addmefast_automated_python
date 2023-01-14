@@ -21,7 +21,7 @@ USAGE :
 
 1 . Change the addmefast login credientials from login_details.txt
 2 . Open Powershell on the same folder where the files exist by pressing SHIFT + MOUSE RIGHT CLICK AND THEN OPEN POWERSHELL
-3 . Type command : python3 addmefast.py
+3 . Type command : C:\PATH WHERE PYTHON INSTALLED\python.exe .\addmefast.py
 
 THATS IT..
 
